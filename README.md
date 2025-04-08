@@ -37,5 +37,5 @@ A simple and interactive **Quiz App** built with Python and **Tkinter GUI**. It 
 3. Run using:
 
 ```bash
-python quiz_app.py
+python quizapp.py
 ```
